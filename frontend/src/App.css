@@ -1,0 +1,265 @@
+/* Изчистен фон на цял екран */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #ffffff;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Контейнерът вече заема 100% от екрана */
+.chat-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+}
+
+/* Голям, центриран хедър */
+.chat-header {
+  text-align: center;
+  padding: 50px 20px 20px;
+  color: #0046cc; /* Корпоративно синьо */
+}
+
+.chat-header h1 {
+  margin: 0;
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.chat-header p {
+  margin: 10px 0 0;
+  font-size: 20px;
+  color: #003571;
+  font-weight: 500;
+  font-style: ruby;
+}
+
+/* Централна колона за чата (максимална ширина за четимост) */
+.chat-window {
+  flex: 1;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Балончета за съобщения */
+.message {
+  display: flex;
+  animation: fadeIn 0.3s ease-out;
+}
+
+.message.user {
+  justify-content: flex-end;
+}
+
+.message.bot {
+  justify-content: flex-start;
+}
+
+.message-bubble {
+  max-width: 80%;
+  padding: 16px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+/* Потребителски отговор (изчистен контур) */
+.message.user .message-bubble {
+  background: #ffffff;
+  color: #1a1a1a;
+  border: 1px solid #0046cc;
+}
+
+/* Отговор на бота */
+.message.bot .message-bubble {
+  background: #f7f9fc;
+  color: #1a1a1a;
+  border: 1px solid #e2e8f0;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Предложени въпроси */
+.suggested-questions-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px 20px 20px;
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 12px;
+  justify-content: center;
+}
+
+.suggested-question {
+  background: #ffffff;
+  border: 1px solid #0046cc;
+  color: #0046cc;
+  border-radius: 24px; /* за по-заоблена форма */
+  padding: 10px 20px;
+  font-size: 14.5px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: center;
+}
+
+.suggested-question:hover {
+  background: #b4c2ea; /* Много леко синьо при посочване */
+  transform: translateY(-2px); /* Фин ефект на повдигане */
+  box-shadow: 0 4px 12px rgba(0, 70, 204, 0.1);
+}
+
+.suggested-question:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* Широко поле за въвеждане */
+.chat-input-area {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px 20px 40px;
+  display: flex;
+  align-items: center;
+  background: transparent;
+}
+
+.chat-input {
+  flex: 1;
+  padding: 18px 24px;
+  background: #ffffff;
+  border: 1px solid #0046cc;
+  border-radius: 8px;
+  outline: none;
+  font-size: 16px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+}
+
+.send-button {
+  background: transparent;
+  color: #0046cc;
+  border: 1px solid #0046cc;
+  border-radius: 8px;
+  width: 78px;
+  height: 56px;
+  margin-left: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.send-button:hover:not(:disabled) {
+  background: #0046cc;
+  color: #ffffff;
+}
+
+.send-button:disabled {
+  border-color: #cbd5e1;
+  color: #cbd5e1;
+  cursor: not-allowed;
+}
+
+.message-bubble a {
+  color: #0046cc;
+  text-decoration: underline;
+  font-weight: 300;
+}
+
+.message-bubble a:hover {
+  text-decoration: none;
+}
+
+/* Персонализиран скролбар за чат прозореца */
+.chat-window::-webkit-scrollbar {
+  width: 6px;
+}
+.chat-window::-webkit-scrollbar-track {
+  background: transparent;
+}
+.chat-window::-webkit-scrollbar-thumb {
+  background: #e2e8f0;
+  border-radius: 10px;
+}
+.chat-window::-webkit-scrollbar-thumb:hover {
+  background: #cbd5e1;
+}
+
+/* Стъклен хедър (Glassmorphism), */
+.chat-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 70, 204, 0.08);
+  padding: 30px 20px 15px;
+}
+
+/* Premium Glow ефект при кликване в полето за писане */
+.chat-input {
+  transition: all 0.3s ease;
+}
+.chat-input:focus {
+  border-color: #0046cc;
+  box-shadow: 0 0 0 4px rgba(0, 70, 204, 0.12);
+  transform: translateY(-1px);
+}
+
+/* Повдигане на потребителските съобщения при посочване */
+.message.user .message-bubble {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.message.user .message-bubble:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* Стил за иконата на чата */
+.chat-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 12px;
+  flex-shrink: 0;
+}
+
+.loading-indicator {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #64748b;
+  font-size: 14px;
+  padding: 10px 15px;
+}
+
+.spinner {
+  width: 12px;
+  height: 12px;
+  border: 3px solid #cbd5e1;
+  border-top: 2ch solid #0404c9;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

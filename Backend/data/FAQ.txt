@@ -1,0 +1,195 @@
+Въпрос:
+С какво се занимава Sirma?
+Примерен Отговор:
+Sirma е технологична група, която предлага комплексни IT и дигитални решения за бизнеса. Услугите ѝ включват персонализирана разработка на софтуер, интеграция на системи, cloud решения, data и AI технологии, IT consulting и managed services.
+Sirma работи с организации от различни индустрии, включително финансови услуги, застраховане, здравеопазване, транспорт и логистика, хотелиерство и туризъм, търговия и публичния сектор.
+Освен разработване на индивидуални решения, Sirma предлага и собствени технологични продукти, сред които Sirma.AI Enterprise — платформа за изграждане и управление на enterprise AI agents и agentic workflows.
+Ако ми кажете какъв проблем или бизнес процес искате да подобрите, мога да ви насоча към най-подходящото решение или услуга на Sirma.
+
+
+Question:
+What does Sirma do as a company?
+Sample Answer:
+Sirma is a technology group that provides comprehensive IT and digital solutions for businesses. Its services include custom software development, system integration, cloud solutions, data and AI technologies, IT consulting, and managed services.
+Sirma works with organizations across various industries, including financial services, insurance, healthcare, transportation and logistics, travel and hospitality, retail, and the public sector.
+In addition to developing customized solutions, Sirma also offers proprietary technology products, including Sirma.AI Enterprise — a platform for building and managing enterprise AI agents and agentic workflows.
+If you tell me what business problem or process you are looking to improve, I can help direct you to the most relevant Sirma solution or service.
+
+
+
+
+
+Въпрос:
+В кои индустрии имате най-силна експертиза?
+Примерен отговор:
+Sirma има експертиза в няколко основни индустриални направления, сред които:
+Финансови услуги и FinTech
+Застраховане и InsurTech
+Здравеопазване
+Транспортиране и логистика
+Туризъм и хотелиерство
+Търговия
+Производство
+Компанията комбинира технологична експертиза с познания в съответната индустрия, което позволява разработването на решения, съобразени с конкретните бизнес процеси и регулаторни изисквания.
+Ако ми кажете в коя индустрия работите, мога да ви покажа конкретни решения и примери от Sirma в тази област.
+
+
+Question:
+Which industries does Sirma have the strongest expertise in?
+Sample Аnswer:
+Sirma has expertise across several key industries, including:
+Financial Services and FinTech
+Insurance and InsurTech
+Healthcare
+Transportation & Logistics
+Travel & Hospitality
+Retail
+Manufacturing
+Public Sector
+The company combines technological expertise with industry-specific knowledge, enabling it to develop solutions tailored to specific business processes and regulatory requirements.
+If you tell me which industry you operate in, I can provide relevant Sirma solutions and examples from that sector.
+
+
+
+
+
+
+Въпрос:
+Какви типове клиенти обслужвате?
+Примерен отговор:
+Sirma работи с организации от различен мащаб — от компании и технологични организации до големи международни enterprise клиенти и институции.
+Сред индустриите, в които Sirma има реализирани проекти, са финансови услуги, логистика, транспорт, хотелиерство и туризъм, здравеопазване и други.
+Компанията има международно присъствие и работи с клиенти извън България.
+Ако търсите партньор за конкретен тип проект, можете да ми опишете организацията и нуждата си, за да ви насоча към релевантен пример.
+
+
+Question:
+What types of clients does Sirma work with?
+Sample Аnswer:
+Sirma works with organizations of various sizes — from companies and technology organizations to large international enterprise clients and institutions.
+Its projects span industries such as financial services, logistics, transportation, travel and hospitality, healthcare, and others.
+The company has an international presence and serves clients beyond Bulgaria.
+If you are looking for a partner for a specific type of project, you can describe your organization and requirements, and I can direct you to a relevant example.
+
+
+
+
+
+
+Въпрос:
+Какви реални enterprise клиенти имате?
+Примерен отговор:
+Sirma има публично представени проекти и case studies за организации като DHL, UniCredit, WebBeds, FLYR, BDZ Cargo, ProCredit и други.
+Проектите обхващат различни области — от логистика и транспортиране до финансови услуги,  и enterprise software.
+Мога да ви покажа конкретни кейс стъдита според индустрията или типа решение, който ви интересува.
+
+
+Кейс стъдита: https://sirma.com/use-cases/the-real-work-of-healthcare-happens-before-the-exam-room.html ; - Здравеопазване
+	      https://sirma.com/stories/connected-conversations-in-focus-duetto.html ; - Хотелиерство и туризъм
+	      https://sirma.com/use-cases/engview-revolutionizes-customer-support-with-sirma.ai-enterprise-platform.html ; - Data и AI
+	      https://sirma.com/stories/bdz-cargo-and-sirma-powering-bulgaria-s-rail-freight-with-modern-freight-management-system.html ; - Транспортиране и логистика
+              https://sirma.com/use-cases/boosting-sales-and-support-efficiency-through-intelligent-ai-chatbots.html ; - Търговия и финанси
+	   
+
+
+Question:
+What real enterprise clients does Sirma work with?
+Sample Answer:
+Sirma has publicly presented projects and case studies for organizations such as DHL, UniCredit, WebBeds, FLYR, BDZ Cargo, ProCredit, and others.
+These projects cover a range of areas, from logistics and transportation to financial services, travel technology, and enterprise software.
+I can provide specific case studies based on the industry or type of solution you are interested in.
+
+
+Case studies: https://sirma.com/use-cases/the-real-work-of-healthcare-happens-before-the-exam-room.html ; - Healthcare
+	      https://sirma.com/stories/connected-conversations-in-focus-duetto.html ; - Travel and hospitality
+	      https://sirma.com/use-cases/engview-revolutionizes-customer-support-with-sirma.ai-enterprise-platform.html ; - Data and AI
+	      https://sirma.com/stories/bdz-cargo-and-sirma-powering-bulgaria-s-rail-freight-with-modern-freight-management-system.html ; - Transportation and logistics
+              https://sirma.com/use-cases/boosting-sales-and-support-efficiency-through-intelligent-ai-chatbots.html ; - Retail
+	   
+
+
+
+
+
+
+Въпрос:
+Какво представлява Sirma.AI Enterprise?
+Примерен отговор:
+Sirma.AI Enterprise е enterprise платформа на Sirma за изграждане, управление и внедряване на AI агенти и workflow-ове с тези агенти.
+Платформата е предназначена за организации, които искат да използват генеративен AI в реални бизнес процеси, като същевременно запазят контрол върху данните, сигурността и deployment средата.
+Sirma.AI Enterprise поддържа различни deployment модели, включително cloud, on-premise, hybrid и air-gapped среди, както и интеграция с множество LLM доставчици.
+Това позволява платформата да бъде използвана в среди, където суверенитета и защитата на данните, както и изискванията за регулации са особено важни.
+Ако желаете, мога да обясня и как Sirma.AI Enterprise може да бъде приложен към конкретен бизнес процес.
+
+
+Question:
+What is Sirma.AI Enterprise?
+Sample Answer:
+Sirma.AI Enterprise is Sirma's enterprise platform for building, managing, and deploying AI agents and agentic workflows.
+The platform is designed for organizations that want to use generative AI in real business processes while maintaining control over their data, security, and deployment environment.
+Sirma.AI Enterprise supports various deployment models, including cloud, on-premise, hybrid, and air-gapped environments, as well as integration with multiple LLM providers.
+This makes the platform suitable for environments where data sovereignty, security, and regulatory requirements are particularly important.
+If you would like, I can also explain how Sirma.AI Enterprise could be applied to a specific business process.
+
+
+
+
+
+
+Въпрос:
+Какви AI технологии използвате?
+Примерен отговор:
+Sirma работи с технологии в областта на Изкуствения интелект, включително:
+Генеративен изкуствен интелект
+Големи езикови модели (LLMs)
+AI агенти
+Agentic workflows
+RAG
+Машинно обучение
+NLP
+Семантично търсене
+Knowledge Graphs
+Data Engineering
+MLOps
+Тези технологии могат да бъдат комбинирани според конкретния бизнес use case — например автоматизация на документи, мениджмънт на знания, customer service, анализ на данни или автоматизиране на workflow-а.
+
+
+Question:
+What AI technologies does Sirma use?
+Sample Answer:
+Sirma works with technologies across the Artificial Intelligence and Data domains, including:
+Generative AI
+Large Language Models (LLMs)
+AI agents
+Agentic workflows
+Retrieval-Augmented Generation (RAG)
+Machine Learning
+Natural Language Processing (NLP)
+Semantic Search
+Knowledge Graphs
+Data Engineering
+MLOps
+These technologies can be combined according to the specific business use case, such as document automation, knowledge management, customer service, data analysis, or workflow automation.
+
+
+
+
+
+
+
+Въпрос:
+Поддържате ли private cloud / hybrid deployment?
+Примерен отговор:
+Да. Sirma.AI Enterprise е проектиран да поддържа различни deployment модели, включително cloud, private cloud, hybrid и on-premise среди.
+Hybrid deployment може например да позволи на организацията да използва AI услуги, като същевременно запази чувствителните данни и определени компоненти от инфраструктурата в контролирана среда.
+Конкретната архитектура зависи от изискванията за сигурност, данните, съществуващата инфраструктура и използваните AI модели.
+Ако искате да обсъдите конкретна архитектура, мога да събера необходимата информация и да насоча запитването ви към Sirma technical team.
+
+
+Question:
+Do you support private cloud / hybrid deployment?
+Sample answer:
+Yes. Sirma.AI Enterprise is designed to support various deployment models, including cloud, private cloud, hybrid, and on-premise environments.
+For example, a hybrid deployment can allow an organization to use AI services while keeping sensitive data and certain infrastructure components within a controlled environment.
+The specific architecture depends on security requirements, data, existing infrastructure, and the AI models being used.
+If you would like to discuss a specific architecture, I can collect the necessary information and direct your request to Sirma's technical team.
